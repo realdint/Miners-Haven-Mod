@@ -1,2 +1,2 @@
-# Miners-Haven-Mod
+# Miners Haven Mod
 roblox game
