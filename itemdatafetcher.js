@@ -1,6 +1,7 @@
 fetch('https://raw.githubusercontent.com/realdint/Miners-Haven-Mod/main/items_data.json')
 .then(response => response.json())
 .then(data => {
+    console.log("Data fetched:", data);
     const container = document.getElementById('items-container');
 
     data.forEach(item => {
