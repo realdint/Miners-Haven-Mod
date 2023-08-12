@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Work in Progress</title>
+    <title>404 page</title>
     <style>
         @font-face {
             font-family: 'GothamSSm-Book';
@@ -15,25 +13,57 @@
             font-style: normal;
         }
 
-        html, body {
-            height: 100%;
-            margin: 0;
-            font-family: 'GothamSSm-Book';
+        body {
+            background-image: url('https://raw.githubusercontent.com/realdint/Miners-Haven-Mod/main/Images/mhmcampsite.png');
+            background-size: cover;
+            background-repeat: no-repeat; 
+            background-attachment: fixed;
+
+            font-family: 'GothamSSm-Book', sans-serif;
+            color: #1a1a1a;
+            height: 100vh;
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
-            background-color: #f4f4f4; /* Light gray background */
+            text-align: center;
+
+            overflow: hidden;  /* This property will disable scrolling */
         }
 
         h1 {
-            font-size: 2em;
-            color: #333; /* Dark gray text color */
+            font-size: 8em; 
+            margin: 0;
         }
+
+        h2 {
+            font-size: 2em;
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 1.5em;
+            margin-top: 10px;
+        }
+
     </style>
 </head>
-
 <body>
-    <h1>Work in Progress</h1>
-</body>
+    <h1>4O6</h1>
+    <h2>NOT Acceptable 😡😡😡</h2>
+    <p id="timeBasedGreeting"></p>
 
+    <script>
+        let currentHour = new Date().getHours();
+        let greetingContainer = document.getElementById('timeBasedGreeting');
+
+        if (currentHour >= 0 && currentHour < 12) {
+            greetingContainer.textContent = "its too early ill make the home page later";
+        } else if (currentHour >= 12 && currentHour < 21) {
+            greetingContainer.textContent = "im making the homepage still";
+        } else {
+            greetingContainer.textContent = "ill make the home page tomorow";
+        }
+    </script>
+</body>
 </html>
