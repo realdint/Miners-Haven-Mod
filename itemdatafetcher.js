@@ -1,7 +1,9 @@
 fetch('https://raw.githubusercontent.com/realdint/Miners-Haven-Mod/main/items_data.json')
     .then(response => {
         if (!response.ok) {
-            throw new Error('Network response was not ok');
+            return response.text().then(text => {
+                throw new Error(`Error fetching JSON. Status: ${response.status}, Response: ${text}`);
+            });
         }
         return response.json();
     })
