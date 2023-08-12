@@ -46,12 +46,34 @@
             margin-top: 10px;
         }
 
+        /* New styles for the homepage link */
+        .homepage-link {
+            position: absolute;
+            bottom: 10px; /* Set distance from the bottom */
+            left: 50%; /* Center horizontally */
+            transform: translateX(-50%); /* Necessary adjustment for centering */
+            font-size: 1.2em;
+            text-decoration: none;
+            color: #1a1a1a; /* Same color as your other text */
+            padding: 5px 15px;
+            border-radius: 5px; /* Optional: You can adjust or remove for desired appearance */
+
+            transition: color 0.15s ease; /* Added smooth transition for text color */
+        }
+
+        .homepage-link:hover {
+            color: #fff; /* Change text color on hover */
+        }
+
     </style>
 </head>
 <body>
     <h1>4O4</h1>
     <h2>Page Not Found</h2>
     <p id="timeBasedGreeting"></p>
+
+    <!-- New anchor link to homepage added at the bottom -->
+    <a href="/index.html" class="homepage-link">Go to Homepage</a>
 
     <script>
         let currentHour = new Date().getHours();
