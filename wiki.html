@@ -5,12 +5,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wiki</title>
     <style>
+        @font-face {
+            font-family: 'GothamSSm-Book';
+            src: url('https://db.onlinewebfonts.com/t/3ad5698dd1177785b94e84f04fd1632f.woff2') format('woff2'),
+                 url('https://db.onlinewebfonts.com/t/3ad5698dd1177785b94e84f04fd1632f.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        body {
+            font-family: 'GothamSSm-Book', sans-serif;
+            background-image: url('https://raw.githubusercontent.com/realdint/Miners-Haven-Mod/main/Images/mhmwaterfall.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        #items-container, #items-container * {
+            font-family: 'GothamSSm-Book', sans-serif;
+        }
+
         .item {
             border: 1px solid #ddd;
             padding: 10px;
             margin: 10px;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            background-color: rgba(0, 0, 0, 0.5); /* Black with 50% transparency */
+            color: white; /* Make text color white for better readability on dark background */
         }
 
         img.thumbnail {
