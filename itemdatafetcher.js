@@ -5,7 +5,7 @@ fetch('https://raw.githubusercontent.com/realdint/Miners-Haven-Mod/main/items_da
 
         data.forEach(item => {
             // Fetching thumbnail from Roblox's API
-            fetch(`https://thumbnails.roblox.com/v1/assets/${item.ThumbnailId}/thumbnails`)
+            fetch(`https://thumbnails.roblox.com/v1/assets?assetIds=${item.ThumbnailId}&size=420x420&format=png`)
                 .then(response => response.json())
                 .then(thumbnailData => {
                     const imageUrl = thumbnailData.data[0].imageUrl;
