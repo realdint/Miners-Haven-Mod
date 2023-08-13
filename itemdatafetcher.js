@@ -1,48 +1,52 @@
 fetch('https://raw.githubusercontent.com/realdint/Miners-Haven-Mod/main/items_data.json')
-    .then(response => {
-        if (!response.ok) {
-            return response.text().then(text => {
-                throw new Error(`Error fetching JSON. Status: ${response.status}, Response: ${text}`);
-            });
-        }
-        return response.json();
-    })
+    .then(response => response.json())
     .then(data => {
         const container = document.getElementById('items-container');
 
         data.forEach(item => {
-            const itemDiv = document.createElement('div');
-            itemDiv.className = 'item';
+            // Fetching thumbnail from Roblox's API
+            fetch(`https://thumbnails.roblox.com/v1/assets/${item.ThumbnailId}/thumbnails`)
+                .then(response => response.json())
+                .then(thumbnailData => {
+                    const imageUrl = thumbnailData.data[0].imageUrl;
 
-            // Name
-            const itemName = document.createElement('h2');
-            itemName.textContent = item.ItemName;
-            itemDiv.appendChild(itemName);
+                    const itemDiv = document.createElement('div');
+                    itemDiv.className = 'item';
 
-            // Image
-            const itemImage = document.createElement('img');
-            itemImage.src = `https://www.roblox.com/asset-thumbnail/image?assetId=${item.ThumbnailId}&width=420&height=420&format=png`;
-            itemImage.alt = item.ItemName;
-            itemImage.className = 'thumbnail';
-            itemDiv.appendChild(itemImage);
+                    // Name
+                    const itemName = document.createElement('h2');
+                    itemName.textContent = item.ItemName;
+                    itemDiv.appendChild(itemName);
 
-            // Description
-            const itemDescription = document.createElement('p');
-            itemDescription.textContent = item.Description;
-            itemDiv.appendChild(itemDescription);
+                    // Image
+                    const itemImage = document.createElement('img');
+                    itemImage.src = imageUrl;
+                    itemImage.alt = item.ItemName;
+                    itemImage.className = 'thumbnail';
+                    itemDiv.appendChild(itemImage);
 
-            // Tier
-            const itemTier = document.createElement('p');
-            itemTier.textContent = `Tier: ${item.TierName}`;
-            itemDiv.appendChild(itemTier);
+                    // Description
+                    const itemDescription = document.createElement('p');
+                    itemDescription.textContent = item.Description;
+                    itemDiv.appendChild(itemDescription);
 
-            // Hitbox
-            const itemHitbox = document.createElement('p');
-            itemHitbox.textContent = `Hitbox - X: ${item.HitboxSize.X}, Y: ${item.HitboxSize.Y}, Z: ${item.HitboxSize.Z}`;
-            itemDiv.appendChild(itemHitbox);
+                    // Tier
+                    const itemTier = document.createElement('p');
+                    itemTier.textContent = `Tier: ${item.TierName}`;
+                    itemDiv.appendChild(itemTier);
 
-            // Append to container
-            container.appendChild(itemDiv);
+                    // Hitbox
+                    const itemHitbox = document.createElement('p');
+                    itemHitbox.textContent = `Hitbox - X: ${item.HitboxSize.X}, Y: ${item.HitboxSize.Y}, Z: ${item.HitboxSize.Z}`;
+                    itemDiv.appendChild(itemHitbox);
+
+                    const itemMulti = document.createElement('p');
+                    itemMulti.textContent = `Multi: ${item.Multi}`;
+                    itemDiv.appendChild(itemMulti);
+
+                    // Append to container
+                    container.appendChild(itemDiv);
+                });
         });
     })
     .catch(error => {
