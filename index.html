@@ -1,69 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>404 page</title>
+    <title>Miners Haven Mod</title>
     <style>
         @font-face {
             font-family: 'GothamSSm-Book';
             src: url('https://db.onlinewebfonts.com/t/3ad5698dd1177785b94e84f04fd1632f.woff2') format('woff2'),
-                 url('https://db.onlinewebfonts.com/t/3ad5698dd1177785b94e84f04fd1632f.woff') format('woff');
+            url('https://db.onlinewebfonts.com/t/3ad5698dd1177785b94e84f04fd1632f.woff') format('woff');
             font-weight: normal;
             font-style: normal;
         }
 
         body {
-            background-image: url('https://raw.githubusercontent.com/realdint/Miners-Haven-Mod/main/Images/mhmcampsite.png');
-            background-size: cover;
-            background-repeat: no-repeat; 
-            background-attachment: fixed;
-
             font-family: 'GothamSSm-Book', sans-serif;
-            color: #1a1a1a;
+            background-image: url('https://raw.githubusercontent.com/realdint/Miners-Haven-Mod/main/Images/IMG_3132.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
             height: 100vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
-
-            overflow: hidden;  /* This property will disable scrolling */
+            color: #1a1a1a;
+            position: relative;
+            overflow: hidden;
         }
 
         h1 {
-            font-size: 8em; 
-            margin: 0;
+            margin-top: 3vh;
+            margin-left: 3vh;
+            font-size: 7vw;
+            text-shadow: 2px 2px 10px rgba(37, 37, 37, 0.5);
+            position: relative;
+            z-index: 1;
         }
 
-        h2 {
-            font-size: 2em;
-            margin-top: 20px;
+        .game-stats {
+            margin-left: 3vh;
+            margin-top: 0vh;
         }
 
-        p {
-            font-size: 1.5em;
-            margin-top: 10px;
+        .game-stats p {
+            margin: 2vh 0; 
+            font-size: 2vw; /* This increases the size of the text. Adjust as necessary. */
+            text-shadow: 2px 2px 10px rgba(37, 37, 37, 0.5);
         }
 
     </style>
 </head>
+
 <body>
-    <h1>4O6</h1>
-    <h2>NOT Acceptable 😡😡😡</h2>
-    <p id="timeBasedGreeting"></p>
-
+    <h1>Miners Haven Mod</h1>
+    <div class="game-stats">
+        <p id="visits">Visits: Loading...</p>
+        <p id="player-count">Player Count: Loading...</p>
+        <p id="favorites">Favorites: Loading...</p>
+        <p id="last-updated">Last Updated: Loading...</p>
+    </div>
     <script>
-        let currentHour = new Date().getHours();
-        let greetingContainer = document.getElementById('timeBasedGreeting');
-
-        if (currentHour >= 0 && currentHour < 12) {
-            greetingContainer.textContent = "its too early ill make the home page later";
-        } else if (currentHour >= 12 && currentHour < 21) {
-            greetingContainer.textContent = "im making the homepage still";
-        } else {
-            greetingContainer.textContent = "ill make the home page tomorow";
-        }
+        fetch('https://corsproxy.io/?https://games.roblox.com/v1/games?universeIds=3963621408')
+            .then(response => response.json())
+            .then(data => {
+                const gameData = data.data[0];
+                const dateObj = new Date(gameData.updated);
+                document.getElementById('visits').textContent = `Visits: ${gameData.visits.toLocaleString()}`;
+                document.getElementById('player-count').textContent = `Player Count: ${gameData.playing.toLocaleString()}`;
+                document.getElementById('favorites').textContent = `Favorites: ${gameData.favoritedCount.toLocaleString()}`;
+                // Assuming you're providing the last updated data in a YYYY-MM-DD format
+                document.getElementById('last-updated').textContent = `Last Updated: ${dateObj.toLocaleString()}`;
+            })
+            .catch(error => {
+                console.error('Error fetching game data:', error);
+            });
     </script>
 </body>
+
 </html>
