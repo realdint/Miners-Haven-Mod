@@ -1,0 +1,4907 @@
+[{
+  "UserId": 581585319,
+  "Username": "shazamzzzzzz",
+  "Banned": true
+},{
+  "UserId": 348093046,
+  "Username": "RetrosGlizzy",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1658781786624"
+      }
+    },
+    "Username": "ez",
+    "Discriminator": 1112,
+    "ID": {
+      "$numberLong": "811429256608481330"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 434151837,
+  "Username": "LosyTM3",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1690120526470"
+      }
+    },
+    "Username": "sinisterblox",
+    "Discriminator": 0,
+    "ID": {
+      "$numberLong": "553587152370270231"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1288485256,
+  "Username": "Mr_Eliteio",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1647220175237"
+      }
+    },
+    "Username": "Elite9001",
+    "Discriminator": 4530,
+    "ID": {
+      "$numberLong": "293118183249018900"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1461827682,
+  "Username": "MachoGiraffe",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1647123427904"
+      }
+    },
+    "Username": "Pirieluca92",
+    "Discriminator": 1733,
+    "ID": {
+      "$numberLong": "547048749462192100"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 553285540,
+  "Username": "roblox_savage2500",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3368786587"
+  },
+  "Username": "sowerminy202",
+  "Banned": true
+},{
+  "UserId": 840551984,
+  "Username": "JackGourdon458",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1667413526978"
+      }
+    },
+    "Username": "!Ñxthæñ!",
+    "Discriminator": 7542,
+    "ID": {
+      "$numberLong": "596788512217497631"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 133951903,
+  "Username": "johnman13x",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1661627689112"
+      }
+    },
+    "Username": "johnman13",
+    "Discriminator": 9071,
+    "ID": {
+      "$numberLong": "269642992761962507"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 99074263,
+  "Username": "Wasergh728",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1648151249174"
+      }
+    },
+    "Username": "leo00_",
+    "Discriminator": 130,
+    "ID": {
+      "$numberLong": "297925211079311360"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "2790576447"
+  },
+  "Username": "lancekra123",
+  "Banned": true
+},{
+  "UserId": 1016686151,
+  "Username": "CaptainsCurse2",
+  "Banned": true
+},{
+  "UserId": 146980365,
+  "Username": "SneakyAdelinbosuu",
+  "Banned": true
+},{
+  "UserId": 147303126,
+  "Username": "0fmx",
+  "Banned": true
+},{
+  "UserId": 1170542680,
+  "Username": "true2867",
+  "Banned": true
+},{
+  "UserId": 133052953,
+  "Username": "RylanEntersRoblox25",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1681526426061"
+      }
+    },
+    "Username": "Something",
+    "Discriminator": 9469,
+    "ID": {
+      "$numberLong": "859293543754891315"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 115846595,
+  "Username": "spookdeluke",
+  "Banned": true
+},{
+  "UserId": 498498731,
+  "Username": "JustRememberThisName",
+  "Banned": true
+},{
+  "UserId": 323098805,
+  "Username": "jamalkhan124",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1655465945327"
+      }
+    },
+    "Username": "Jamalk123",
+    "Discriminator": 4025,
+    "ID": {
+      "$numberLong": "312953504237092864"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 950028158,
+  "Username": "MahGirlRabbit",
+  "Banned": true
+},{
+  "UserId": 142919300,
+  "Username": "ixRavn",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1682810324504"
+      }
+    },
+    "Username": "Ravn",
+    "Discriminator": 7,
+    "ID": {
+      "$numberLong": "876129765952729128"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 186265487,
+  "Username": "viz5y",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1669157502902"
+      }
+    },
+    "Username": "vizzy",
+    "Discriminator": 8628,
+    "ID": {
+      "$numberLong": "349965354136633344"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 801859628,
+  "Username": "Tomasitololero",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1651303483981"
+      }
+    },
+    "Username": "ActuallyTomy",
+    "Discriminator": 4815,
+    "ID": {
+      "$numberLong": "822599621255626753"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 83268557,
+  "Username": "dragonBR2",
+  "Banned": true
+},{
+  "UserId": 945477785,
+  "Username": "ii_Luxcas",
+  "Banned": true
+},{
+  "UserId": 109501999,
+  "Username": "sixguns2545",
+  "Banned": true
+},{
+  "UserId": 188812381,
+  "Username": "roundlattice565",
+  "Banned": true
+},{
+  "UserId": 1531181263,
+  "Username": "x_Whats",
+  "Banned": true
+},{
+  "UserId": 1895859081,
+  "Username": "angel19801212",
+  "Banned": true
+},{
+  "UserId": 1135146306,
+  "Username": "joop9012",
+  "Banned": true
+},{
+  "UserId": 1159044171,
+  "Username": "Odd_future1111111",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1675450691096"
+      }
+    },
+    "Username": "odd_future111",
+    "Discriminator": 1581,
+    "ID": {
+      "$numberLong": "378953523297124372"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3201754658"
+  },
+  "Username": "limbobyomam",
+  "Banned": true
+},{
+  "UserId": 736853761,
+  "Username": "Danguard234",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1662877193940"
+      }
+    },
+    "Username": "abyts",
+    "Discriminator": 8382,
+    "ID": {
+      "$numberLong": "633449436130967572"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 972443651,
+  "Username": "xOverclock",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1659057759665"
+      }
+    },
+    "Username": "hyper333",
+    "Discriminator": 8406,
+    "ID": {
+      "$numberLong": "657749582184448031"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 610180322,
+  "Username": "joao_1425",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3286780547"
+  },
+  "Username": "iGOOOOOY28",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1647537820981"
+      }
+    },
+    "Username": "Chayyyyy",
+    "Discriminator": 4431,
+    "ID": {
+      "$numberLong": "355282638107443200"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1055652616,
+  "Username": "Big_Narwhalrus",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1659407517549"
+      }
+    },
+    "Username": "Narwhal",
+    "Discriminator": 8622,
+    "ID": {
+      "$numberLong": "923544345368494080"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 194319238,
+  "Username": "TheshadowLord21",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1664306399352"
+      }
+    },
+    "Username": "Yumo",
+    "Discriminator": 843,
+    "ID": {
+      "$numberLong": "567029772845318149"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 310174023,
+  "Username": "RijadDmD_YT13",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3780119603"
+  },
+  "Username": "JetStreamSamBallin95",
+  "Banned": true
+},{
+  "UserId": 28998296,
+  "Username": "REDPJ2456",
+  "Banned": true
+},{
+  "UserId": 70928117,
+  "Username": "Frostilia",
+  "Banned": true
+},{
+  "UserId": 1208539421,
+  "Username": "SlamYourKeyboardLol",
+  "Banned": true
+},{
+  "UserId": 311179105,
+  "Username": "ghefazoo",
+  "Banned": true
+},{
+  "UserId": 574195910,
+  "Username": "DirectorOfNo",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3269297535"
+  },
+  "Username": "AMysteryPerson07",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1657563611520"
+      }
+    },
+    "Username": "a person",
+    "Discriminator": 1777,
+    "ID": {
+      "$numberLong": "661108519876952074"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1694533351,
+  "Username": "LTK_kingz",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1672964760078"
+      }
+    },
+    "Username": "Kingz",
+    "Discriminator": 3546,
+    "ID": {
+      "$numberLong": "686375170897739777"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 794498112,
+  "Username": "GodUrple",
+  "Banned": true
+},{
+  "UserId": 603225130,
+  "Username": "xd_joshua6458",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1649228623861"
+      }
+    },
+    "Username": "Mizuki",
+    "Discriminator": 7632,
+    "ID": {
+      "$numberLong": "707554502202622052"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 925130877,
+  "Username": "vipmaster0512",
+  "Banned": true
+},{
+  "UserId": 39601359,
+  "Username": "killeropper",
+  "Banned": true
+},{
+  "UserId": 164654715,
+  "Username": "Kentrowl",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1653273596197"
+      }
+    },
+    "Username": "Kentrowl",
+    "Discriminator": 3343,
+    "ID": {
+      "$numberLong": "224673181800202242"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 259458168,
+  "Username": "krittanoppk",
+  "Banned": true
+},{
+  "UserId": 159492880,
+  "Username": "cancanpickle1",
+  "Banned": true
+},{
+  "UserId": 148706510,
+  "Username": "Teddzys",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1659906580201"
+      }
+    },
+    "Username": "sweatylewis789",
+    "Discriminator": 2239,
+    "ID": {
+      "$numberLong": "982044379957043260"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1011874969,
+  "Username": "DisturbedCobra",
+  "Banned": true
+},{
+  "UserId": 1546358762,
+  "Username": "bambang171717",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "15463587623"
+  },
+  "Username": "bambang171717",
+  "Banned": true
+},{
+  "UserId": 1769481476,
+  "Username": "dinoman120938",
+  "Banned": true
+},{
+  "UserId": 123791675,
+  "Username": "MeekoWinning",
+  "Banned": true
+},{
+  "UserId": 618409895,
+  "Username": "Hoang5521255",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2400107777"
+  },
+  "Username": "MX6_RBX",
+  "Banned": true
+},{
+  "UserId": 578628246,
+  "Username": "stalkoblin",
+  "Banned": true
+},{
+  "UserId": 54235021,
+  "Username": "deathrayman1",
+  "Banned": true
+},{
+  "UserId": 1511590970,
+  "Username": "TenTHk45",
+  "Banned": true
+},{
+  "UserId": 108731735,
+  "Username": "InCrIpTiOnYT",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1658679747042"
+      }
+    },
+    "Username": "InCrIpTiOn",
+    "Discriminator": 8028,
+    "ID": {
+      "$numberLong": "154942570642800640"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 80797107,
+  "Username": "Cutiegamie",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4716377563"
+  },
+  "Username": "xXTheGameXx2",
+  "Banned": true
+},{
+  "UserId": 1217253165,
+  "Username": "khbfkoo",
+  "Banned": true
+},{
+  "UserId": 142069581,
+  "Username": "hn082004",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2938155063"
+  },
+  "Username": "AvoidedTheSpooder",
+  "Banned": true
+},{
+  "UserId": 1452879915,
+  "Username": "2020XDPRO",
+  "Banned": true
+},{
+  "UserId": 628960483,
+  "Username": "aadrianthegreat",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3429472421"
+  },
+  "Username": "pghlfilms123a",
+  "Banned": true
+},{
+  "UserId": 1000841039,
+  "Username": "davidRBLX340",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "29173507582"
+  },
+  "Username": "AJBr_wn",
+  "Banned": true
+},{
+  "UserId": 1165052922,
+  "Username": "pirieluca92",
+  "Banned": true
+},{
+  "UserId": 1564261562,
+  "Username": "0ddxz",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "28564256312"
+  },
+  "Username": "ghoulpholicy",
+  "Banned": true
+},{
+  "UserId": 124455440,
+  "Username": "davidron_xd",
+  "Banned": true
+},{
+  "UserId": 18007257,
+  "Username": "MrFailTube",
+  "Banned": true
+},{
+  "UserId": 63005346,
+  "Username": "PhoenixMorningstar",
+  "Banned": true
+},{
+  "UserId": 117324257,
+  "Username": "Ohmzimigiw",
+  "Banned": true
+},{
+  "UserId": 336059218,
+  "Username": "quintenswackerinoo",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1658009290899"
+      }
+    },
+    "Username": "quintenold",
+    "Discriminator": 6742,
+    "ID": {
+      "$numberLong": "513240690293997571"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 349032374,
+  "Username": "coolpower2100",
+  "Banned": true
+},{
+  "UserId": 1125150420,
+  "Username": "gamerjo289",
+  "Banned": true
+},{
+  "UserId": 1696638620,
+  "Username": "xXByRobiXx",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2487009615"
+  },
+  "Username": "ppbutextended",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1666459666973"
+      }
+    },
+    "Username": "rev",
+    "Discriminator": 7251,
+    "ID": {
+      "$numberLong": "1021009681931583611"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 24734018,
+  "Username": "Ksnunk",
+  "Banned": true
+},{
+  "UserId": 393054617,
+  "Username": "theboomb65675",
+  "Banned": true
+},{
+  "UserId": 116482553,
+  "Username": "minecraftgod4443",
+  "Banned": true
+},{
+  "UserId": 134752866,
+  "Username": "badboyz6pokemon",
+  "Banned": true
+},{
+  "UserId": 1139916247,
+  "Username": "SunBouy09",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1654223394182"
+      }
+    },
+    "Username": "Dark.Ark09",
+    "Discriminator": 4027,
+    "ID": {
+      "$numberLong": "445518850390360064"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 115950353,
+  "Username": "ltzIce",
+  "Banned": true
+},{
+  "UserId": 1992371068,
+  "Username": "NoLyfeSkipping",
+  "Banned": true
+},{
+  "UserId": 675147596,
+  "Username": "CSDOCO3",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2763871764"
+  },
+  "Username": "DynoFromKord",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1658535131494"
+      }
+    },
+    "Username": "Dreaded_Zerith",
+    "Discriminator": 4292,
+    "ID": {
+      "$numberLong": "862171345542053918"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 92169784,
+  "Username": "berny1232",
+  "Banned": true
+},{
+  "UserId": 418240855,
+  "Username": "axelyap4",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3552781707"
+  },
+  "Username": "J_iDi0N",
+  "Banned": true
+},{
+  "UserId": 1507857855,
+  "Username": "weeneihut",
+  "Banned": true
+},{
+  "UserId": 281995353,
+  "Username": "GrowMeYT",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2224168007"
+  },
+  "Username": "GuavajuiceFOrrealz",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1658234164938"
+      }
+    },
+    "Username": "JuJuFallz",
+    "Discriminator": 4734,
+    "ID": {
+      "$numberLong": "737861975635132436"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 451277464,
+  "Username": "khanhthongminh",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "15463587622"
+  },
+  "Username": "bambang171717",
+  "Banned": true
+},{
+  "UserId": 749919130,
+  "Username": "Asyraaf542",
+  "Banned": true
+},{
+  "UserId": 491486926,
+  "Username": "jamesisamaze",
+  "Banned": true
+},{
+  "UserId": 66378169,
+  "Username": "MegacraftBuilder",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1664930232674"
+      }
+    },
+    "Username": "MegacraftBuilder",
+    "Discriminator": 932,
+    "ID": {
+      "$numberLong": "279679091907624961"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3334099647"
+  },
+  "Username": "bambang171717_3",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "33340996472"
+  },
+  "Username": "bambang171717_3",
+  "Banned": true
+},{
+  "UserId": 317261132,
+  "Username": "yRicherz",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2904653030"
+  },
+  "Username": "add_minu",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2681812386"
+  },
+  "Username": "Imanoob0721",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2508428762"
+  },
+  "Username": "AspectReaper671",
+  "Banned": true
+},{
+  "UserId": 1277958191,
+  "Username": "ForeverXvia",
+  "Banned": true
+},{
+  "UserId": 386476547,
+  "Username": "churchilldanny",
+  "Banned": true
+},{
+  "UserId": 192987132,
+  "Username": "CorpRazor",
+  "Banned": true
+},{
+  "UserId": 259306355,
+  "Username": "SleeplessDevils",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1655580719295"
+      }
+    },
+    "Username": "sleepless",
+    "Discriminator": 4255,
+    "ID": {
+      "$numberLong": "269913960877260800"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 638210643,
+  "Username": "fersever5",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1656041239123"
+      }
+    },
+    "Username": "TsukiOP",
+    "Discriminator": 9797,
+    "ID": {
+      "$numberLong": "576823354930233344"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 86262910,
+  "Username": "Vyrixyis",
+  "Banned": true
+},{
+  "UserId": 55202628,
+  "Username": "benplaytran",
+  "Banned": true
+},{
+  "UserId": 316579887,
+  "Username": "TheFxrgotten",
+  "Banned": true
+},{
+  "UserId": 245763183,
+  "Username": "oocyz",
+  "Banned": true
+},{
+  "UserId": 60215697,
+  "Username": "ayxies",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1664976203602"
+      }
+    },
+    "Username": "ayxies",
+    "Discriminator": 4724,
+    "ID": {
+      "$numberLong": "923890891557568512"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "32761829663"
+  },
+  "Username": "bambang171717_2",
+  "Banned": true
+},{
+  "UserId": 823990379,
+  "Username": "t3wx",
+  "Banned": true
+},{
+  "UserId": 1086471178,
+  "Username": "boiomachin",
+  "Banned": true
+},{
+  "UserId": 161673420,
+  "Username": "gugabb",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3406298534"
+  },
+  "Username": "Faze_OneTapGodz",
+  "Banned": true
+},{
+  "UserId": 44426878,
+  "Username": "Gueest_1337",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1660851555637"
+      }
+    },
+    "Username": "Wryyyy",
+    "Discriminator": 736,
+    "ID": {
+      "$numberLong": "476093224335704065"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 444628252,
+  "Username": "sedkoro",
+  "Banned": true
+},{
+  "UserId": 41494682,
+  "Username": "wbvh",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1661474710675"
+      }
+    },
+    "Username": "dawson",
+    "Discriminator": 5621,
+    "ID": {
+      "$numberLong": "921946580586737664"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 957816482,
+  "Username": "MIX_YTonYT",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2598142109"
+  },
+  "Username": "PilotMavs",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2341632856"
+  },
+  "Username": "RobloxTw1tter",
+  "Banned": true
+},{
+  "UserId": 110801785,
+  "Username": "crystaIlinity",
+  "Banned": true
+},{
+  "UserId": 72827674,
+  "Username": "Guest121315",
+  "Banned": true
+},{
+  "UserId": 175191656,
+  "Username": "ALEXGAMING446",
+  "Banned": true
+},{
+  "UserId": 1038170266,
+  "Username": "durako53",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1683306368553"
+      }
+    },
+    "Username": "อ่าววววว",
+    "Discriminator": 413,
+    "ID": {
+      "$numberLong": "441156943109685248"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "2518538549"
+  },
+  "Username": "Jazonsz",
+  "Banned": true
+},{
+  "UserId": 149960736,
+  "Username": "xxswagguy360xx",
+  "Banned": true
+},{
+  "UserId": 1681277012,
+  "Username": "hhyuhuyafgkla",
+  "Banned": true
+},{
+  "UserId": 115703412,
+  "Username": "captinbumb",
+  "Banned": true
+},{
+  "UserId": 296527681,
+  "Username": "KingNeptune908",
+  "Banned": true
+},{
+  "UserId": 1123443756,
+  "Username": "Grugson_1",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1658137226944"
+      }
+    },
+    "Username": "Grugson",
+    "Discriminator": 3760,
+    "ID": {
+      "$numberLong": "475337830864912384"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "5126954163"
+  },
+  "Username": "opofolight",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2526971157"
+  },
+  "Username": "boangkohahachar",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1659155834003"
+      }
+    },
+    "Username": "zae",
+    "Discriminator": 2210,
+    "ID": {
+      "$numberLong": "852785328402202644"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1143330778,
+  "Username": "Jamillekian",
+  "Banned": true
+},{
+  "UserId": 1813107873,
+  "Username": "rjveron134",
+  "Banned": true
+},{
+  "UserId": 993882478,
+  "Username": "5QDK",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1657650028399"
+      }
+    },
+    "Username": "nephlem",
+    "Discriminator": 731,
+    "ID": {
+      "$numberLong": "883425873066336348"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 32876345,
+  "Username": "Shawnz5252",
+  "Banned": true
+},{
+  "UserId": 135150247,
+  "Username": "TrendyOma",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2389458393"
+  },
+  "Username": "HistoricallyDivided",
+  "Banned": true
+},{
+  "UserId": 644475002,
+  "Username": "Quackerjack500",
+  "Banned": true
+},{
+  "UserId": 94082119,
+  "Username": "xxGandalfzz",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1687333216496"
+      }
+    },
+    "Username": "rubbe1",
+    "Discriminator": 0,
+    "ID": {
+      "$numberLong": "729969387913871402"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 95937643,
+  "Username": "exellentkenzo25",
+  "Banned": true
+},{
+  "UserId": 1314221431,
+  "Username": "lolweloperxxx",
+  "Banned": true
+},{
+  "UserId": 420527,
+  "Username": "1818",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1661181469074"
+      }
+    },
+    "Username": "rtwys",
+    "Discriminator": 3466,
+    "ID": {
+      "$numberLong": "287503602354749440"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3749820254"
+  },
+  "Username": "DirectorOfMaybe",
+  "Banned": true
+},{
+  "UserId": 1356712619,
+  "Username": "DefinitelyNotCavera",
+  "Banned": true
+},{
+  "UserId": 98120829,
+  "Username": "therobloxgamer35",
+  "Banned": true
+},{
+  "UserId": 1952440348,
+  "Username": "sha00242",
+  "Banned": true
+},{
+  "UserId": 110110259,
+  "Username": "SungazedUwU",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1661404606060"
+      }
+    },
+    "Username": "Sungazed",
+    "Discriminator": 1152,
+    "ID": {
+      "$numberLong": "563721333892972544"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 357065192,
+  "Username": "King91201",
+  "Banned": true
+},{
+  "UserId": 352025641,
+  "Username": "CynicalTheKat",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1660138933402"
+      }
+    },
+    "Username": "not mat?",
+    "Discriminator": 1693,
+    "ID": {
+      "$numberLong": "432240621734985739"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 308186379,
+  "Username": "EpicDestroyer1098",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1687580834027"
+      }
+    },
+    "Username": "epic7879",
+    "Discriminator": 0,
+    "ID": {
+      "$numberLong": "1038899530323726397"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 64430673,
+  "Username": "poopslinger123321",
+  "Banned": true
+},{
+  "UserId": 657911850,
+  "Username": "Save_Juraasiz",
+  "Banned": true
+},{
+  "UserId": 1442844152,
+  "Username": "ox_jaco",
+  "Banned": true
+},{
+  "UserId": 1691423039,
+  "Username": "DuckehLover",
+  "Banned": true
+},{
+  "UserId": 91577715,
+  "Username": "kaseykevein",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1660052975011"
+      }
+    },
+    "Username": "Occupied",
+    "Discriminator": 7280,
+    "ID": {
+      "$numberLong": "254672831038619648"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 199442217,
+  "Username": "fredrikvictor4",
+  "Banned": true
+},{
+  "UserId": 1712919969,
+  "Username": "Fhizes",
+  "Banned": true
+},{
+  "UserId": 192494837,
+  "Username": "CallmeThatDude1",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3608122957"
+  },
+  "Username": "xKawaiiSkies",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1660049002608"
+      }
+    },
+    "Username": "Kawaii",
+    "Discriminator": 1000,
+    "ID": {
+      "$numberLong": "306813201813602304"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 161597365,
+  "Username": "BxP_Family",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2386572289"
+  },
+  "Username": "KongMsKing",
+  "Banned": true
+},{
+  "UserId": 134569952,
+  "Username": "bystii",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3790195374"
+  },
+  "Username": "shr_pn",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1676167707376"
+      }
+    },
+    "Username": "shrpn",
+    "Discriminator": 2941,
+    "ID": {
+      "$numberLong": "965426564726652979"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1067906297,
+  "Username": "fractured_death",
+  "Banned": true
+},{
+  "UserId": 636825316,
+  "Username": "aqwagaming22",
+  "Banned": true
+},{
+  "UserId": 97585982,
+  "Username": "Myhz",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1661441904763"
+      }
+    },
+    "Username": "ZuardyQuake",
+    "Discriminator": 4961,
+    "ID": {
+      "$numberLong": "847162631953580102"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 39920765,
+  "Username": "parenthesis8ago",
+  "Banned": true
+},{
+  "UserId": 846267294,
+  "Username": "damnee5172",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3039505252"
+  },
+  "Username": "Applefromdirt",
+  "Banned": true
+},{
+  "UserId": 115007407,
+  "Username": "noisyspyr01",
+  "Banned": true
+},{
+  "UserId": 1120365152,
+  "Username": "Inzm223415",
+  "Banned": true
+},{
+  "UserId": 44273158,
+  "Username": "sahh2",
+  "Banned": true
+},{
+  "UserId": 22913038,
+  "Username": "clone2545",
+  "Banned": true
+},{
+  "UserId": 1886171159,
+  "Username": "ServersOk",
+  "Banned": true
+},{
+  "UserId": 1097900274,
+  "Username": "PsychoAuroris",
+  "Banned": true
+},{
+  "UserId": 648187279,
+  "Username": "calebsammy1",
+  "Banned": true
+},{
+  "UserId": 1006930123,
+  "Username": "super_louisbr",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1661004440026"
+      }
+    },
+    "Username": "miners_heavenfan69",
+    "Discriminator": 4216,
+    "ID": {
+      "$numberLong": "999076727399657554"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1328260758,
+  "Username": "dabduded02",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3814849594"
+  },
+  "Username": "NanashiMumei08",
+  "Banned": true
+},{
+  "UserId": 1345699522,
+  "Username": "bystii",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1661550778374"
+      }
+    },
+    "Username": "ビス地",
+    "Discriminator": 1,
+    "ID": {
+      "$numberLong": "861086545677910037"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3817333484"
+  },
+  "Username": "jemoeder3294",
+  "Banned": true
+},{
+  "UserId": 67319189,
+  "Username": "iDuzel",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3818338645"
+  },
+  "Username": "overlordscreator93",
+  "Banned": true
+},{
+  "UserId": 116807793,
+  "Username": "gu0z",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3760043466"
+  },
+  "Username": "amongus_enjoyer1231",
+  "Banned": true
+},{
+  "UserId": 392814235,
+  "Username": "surfsmrf1",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3820536864"
+  },
+  "Username": "Tagsxaa",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3821577525"
+  },
+  "Username": "omaaagod_1234",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3822183949"
+  },
+  "Username": "hurbstinks",
+  "Banned": true
+},{
+  "UserId": 496209672,
+  "Username": "Happymill12",
+  "Banned": true
+},{
+  "UserId": 242131599,
+  "Username": "callguyone",
+  "Banned": true
+},{
+  "UserId": 413562297,
+  "Username": "basiliskniki",
+  "Banned": true
+},{
+  "UserId": 336609634,
+  "Username": "BLUEPJ2456",
+  "Banned": true
+},{
+  "UserId": 1139786561,
+  "Username": "goldenstatefan243",
+  "Banned": true
+},{
+  "UserId": 1504014788,
+  "Username": "GREENPJ2456",
+  "Banned": true
+},{
+  "UserId": 1505859146,
+  "Username": "BLACKPJ2456",
+  "Banned": true
+},{
+  "UserId": 1518696657,
+  "Username": "WHITEPJ2456",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3833993656"
+  },
+  "Username": "xgdsreddg653",
+  "Banned": true
+},{
+  "UserId": 262572204,
+  "Username": "AmazingHalo6274",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1666155984984"
+      }
+    },
+    "Username": "Halo",
+    "Discriminator": 5806,
+    "ID": {
+      "$numberLong": "941801022328823828"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1021394996,
+  "Username": "CheskaNicoleCNB",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3842307457"
+  },
+  "Username": "MHM0DS",
+  "Banned": true
+},{
+  "UserId": 750033831,
+  "Username": "NeSveikasGeimeris22",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1668688688039"
+      }
+    },
+    "Username": "Nes",
+    "Discriminator": 6438,
+    "ID": {
+      "$numberLong": "911360312001822720"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1354863219,
+  "Username": "Myst_Kakashi",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2338693081"
+  },
+  "Username": "boiboiboiyoi",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3596968481"
+  },
+  "Username": "Boiboiboiyoi1",
+  "Banned": true
+},{
+  "UserId": 89588585,
+  "Username": "ZaidenHDPlays",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3228203278"
+  },
+  "Username": "dnaugie",
+  "Banned": true
+},{
+  "UserId": 478263254,
+  "Username": "Dispectz",
+  "Banned": true
+},{
+  "UserId": 1360783684,
+  "Username": "HarazukiOne",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1664317591788"
+      }
+    },
+    "Username": "harazuir",
+    "Discriminator": 1285,
+    "ID": {
+      "$numberLong": "668403952513056798"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1176968890,
+  "Username": "lucnnt",
+  "Banned": true
+},{
+  "UserId": 1201983769,
+  "Username": "3D_motionXD",
+  "Banned": true
+},{
+  "UserId": 1489699354,
+  "Username": "PhanTomNoobyToPro",
+  "Banned": true
+},{
+  "UserId": 484648109,
+  "Username": "dazifys",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3236878392"
+  },
+  "Username": "Vlencer",
+  "Banned": true
+},{
+  "UserId": 105656661,
+  "Username": "KevinPlaysHD",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3129329902"
+  },
+  "Username": "tsubiclubx",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3871412476"
+  },
+  "Username": "vendetta_prime",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1662528172792"
+      }
+    },
+    "Username": "meep",
+    "Discriminator": 2795,
+    "ID": {
+      "$numberLong": "577368316864364555"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1589422684,
+  "Username": "FalseSwords",
+  "Banned": true
+},{
+  "UserId": 602514577,
+  "Username": "MariShinJi",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2872797950"
+  },
+  "Username": "Sniper_isthebest0",
+  "Banned": true
+},{
+  "UserId": 1263608314,
+  "Username": "mrhuskyo",
+  "Banned": true
+},{
+  "UserId": 444210872,
+  "Username": "Timmyqe",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1665350148633"
+      }
+    },
+    "Username": "REDACTED",
+    "Discriminator": 9048,
+    "ID": {
+      "$numberLong": "688108117812051979"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1487301087,
+  "Username": "PapaOnie",
+  "Banned": true
+},{
+  "UserId": 1831262179,
+  "Username": "ProtectSumi",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1662885998481"
+      }
+    },
+    "Username": "Sakaguchi",
+    "Discriminator": 5193,
+    "ID": {
+      "$numberLong": "792087678900109313"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 201416073,
+  "Username": "xYoshi68",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1676008654628"
+      }
+    },
+    "Username": "c_q_g_a_r",
+    "Discriminator": 3750,
+    "ID": {
+      "$numberLong": "401973342414045185"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 461084859,
+  "Username": "zidannagrak13",
+  "Banned": true
+},{
+  "UserId": 25315355,
+  "Username": "emila2001",
+  "Banned": true
+},{
+  "UserId": 905401461,
+  "Username": "morestitchesplease",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3894586113"
+  },
+  "Username": "raggs2richezz",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1664017533416"
+      }
+    },
+    "Username": "!SICKO",
+    "Discriminator": 7685,
+    "ID": {
+      "$numberLong": "726149013828665405"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 324179847,
+  "Username": "ObbyHacker123",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3906242500"
+  },
+  "Username": "RoadRunDX",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "15894226842"
+  },
+  "Username": "FalseSwords",
+  "Banned": true
+},{
+  "UserId": 25567488,
+  "Username": "YaBoiSkyy",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1664245152521"
+      }
+    },
+    "Username": "Sky",
+    "Discriminator": 7858,
+    "ID": {
+      "$numberLong": "177846256754753537"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1221081630,
+  "Username": "Epic_AlexHK",
+  "Banned": true
+},{
+  "UserId": 156357123,
+  "Username": "NekoMatei",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1666482475036"
+      }
+    },
+    "Username": "neko",
+    "Discriminator": 7395,
+    "ID": {
+      "$numberLong": "255746126244872192"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 339279909,
+  "Username": "ANDY5TIMES",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1664322266984"
+      }
+    },
+    "Username": "And E",
+    "Discriminator": 9669,
+    "ID": {
+      "$numberLong": "952259306454126662"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1138182752,
+  "Username": "Official_EPD",
+  "Banned": true
+},{
+  "UserId": 950152480,
+  "Username": "imachicken0981",
+  "Banned": true
+},{
+  "UserId": 105748736,
+  "Username": "tekkitrock",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1664366648628"
+      }
+    },
+    "Username": "Remy",
+    "Discriminator": 9814,
+    "ID": {
+      "$numberLong": "171555105664008192"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "6038889062"
+  },
+  "Username": "onestar1625",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1664245282552"
+      }
+    },
+    "Username": "onestar1528",
+    "Discriminator": 679,
+    "ID": {
+      "$numberLong": "480058826599694336"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "39193489033"
+  },
+  "Username": "Serendis64",
+  "Banned": true
+},{
+  "UserId": 1043414026,
+  "Username": "itachixzv",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2974692762"
+  },
+  "Username": "387457384839O",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1664294061885"
+      }
+    },
+    "Username": "Figaesd",
+    "Discriminator": 8403,
+    "ID": {
+      "$numberLong": "621321475328180235"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "2369208865"
+  },
+  "Username": "Big_TididieAnime",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1664344215262"
+      }
+    },
+    "Username": "agil",
+    "Discriminator": 6102,
+    "ID": {
+      "$numberLong": "968212287770992670"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 106068516,
+  "Username": "rbrb1313",
+  "Banned": true
+},{
+  "UserId": 161031600,
+  "Username": "0YUNGBLAZZIN0",
+  "Banned": true
+},{
+  "UserId": 998770144,
+  "Username": "yoloface172",
+  "Banned": true
+},{
+  "UserId": 769672886,
+  "Username": "YogiMuara",
+  "Banned": true
+},{
+  "UserId": 136308166,
+  "Username": "ShockingWuzup",
+  "Banned": true
+},{
+  "UserId": 1354291907,
+  "Username": "xXLeonXLeonXx",
+  "Banned": true
+},{
+  "UserId": 220051274,
+  "Username": "danrockslol",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3926687360"
+  },
+  "Username": "ExoticSkull1",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3927570545"
+  },
+  "Username": "inteIligibIe",
+  "Banned": true
+},{
+  "UserId": 350102168,
+  "Username": "moneymoneycashy",
+  "Banned": true
+},{
+  "UserId": 114717152,
+  "Username": "catobsessed101",
+  "Banned": true
+},{
+  "UserId": 879739043,
+  "Username": "TheForstTurkey",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "9041716543"
+  },
+  "Username": "coolaido975",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1665878820277"
+      }
+    },
+    "Username": "phoenixtitan395",
+    "Discriminator": 1460,
+    "ID": {
+      "$numberLong": "623865170497765396"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3933205104"
+  },
+  "Username": "Airwarp0",
+  "Banned": true
+},{
+  "UserId": 163627528,
+  "Username": "Krisoops",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1665846713860"
+      }
+    },
+    "Username": "krav",
+    "Discriminator": 2,
+    "ID": {
+      "$numberLong": "731419912186363954"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3925940014"
+  },
+  "Username": "imachicken0982",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2512964567"
+  },
+  "Username": "HAHAHAHLMAOXD",
+  "Banned": true
+},{
+  "UserId": 318348424,
+  "Username": "piejupiter",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2409302963"
+  },
+  "Username": "Asoulem",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3942513483"
+  },
+  "Username": "yoloface167",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1665468715949"
+      }
+    },
+    "Username": "LPR",
+    "Discriminator": 702,
+    "ID": {
+      "$numberLong": "359647594235822080"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 148828507,
+  "Username": "ReverseIsBetter",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1665258790163"
+      }
+    },
+    "Username": "reverse",
+    "Discriminator": 2998,
+    "ID": {
+      "$numberLong": "709210180109467658"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3722257048"
+  },
+  "Username": "thatmomentwhenyou727",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1668832861249"
+      }
+    },
+    "Username": "leo00_",
+    "Discriminator": 7373,
+    "ID": {
+      "$numberLong": "297925211079311362"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 543936831,
+  "Username": "furiouswes",
+  "Banned": true
+},{
+  "UserId": 1353306499,
+  "Username": "itachixzvalt7",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3944897698"
+  },
+  "Username": "CoolLikeAPearl",
+  "Banned": true
+},{
+  "UserId": 1954417779,
+  "Username": "gravittyyzz",
+  "Banned": true
+},{
+  "UserId": 110707341,
+  "Username": "FoxysCove102",
+  "Banned": true
+},{
+  "UserId": 1107073413,
+  "Username": "FoxysCove102",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1665014733285"
+      }
+    },
+    "Username": "Ham",
+    "Discriminator": 2299,
+    "ID": {
+      "$numberLong": "565673576477360129"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1087214828,
+  "Username": "ramiroh415",
+  "Banned": true
+},{
+  "UserId": 1353365848,
+  "Username": "itachixzvalt15",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1682286286527"
+      }
+    },
+    "Username": "Itchy",
+    "Discriminator": 3402,
+    "ID": {
+      "$numberLong": "746892875668914216"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 30876740,
+  "Username": "fantakilla",
+  "Banned": true
+},{
+  "UserId": 1353279116,
+  "Username": "itachixzvalt4",
+  "Banned": true
+},{
+  "UserId": 1353344090,
+  "Username": "itachixzvalt9",
+  "Banned": true
+},{
+  "UserId": 1353281888,
+  "Username": "itachixzvalt5",
+  "Banned": true
+},{
+  "UserId": 1353357853,
+  "Username": "itachixzvalt12",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3954314281"
+  },
+  "Username": "1984bygeorgeorwellis",
+  "Banned": true
+},{
+  "UserId": 1518762834,
+  "Username": "ET3RN4L_FU5I0N",
+  "Banned": true
+},{
+  "UserId": 197757987,
+  "Username": "dropvert",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1665318347781"
+      }
+    },
+    "Username": "iluvyeat",
+    "Discriminator": 5330,
+    "ID": {
+      "$numberLong": "360561071783936011"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3923151584"
+  },
+  "Username": "RomHa21",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2455903382"
+  },
+  "Username": "Xd_eddible243",
+  "Banned": true
+},{
+  "UserId": 978199792,
+  "Username": "heyimerrnie",
+  "Banned": true
+},{
+  "UserId": 104171136,
+  "Username": "Pandemaniac",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2515541614"
+  },
+  "Username": "VVs_6",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1666026193992"
+      }
+    },
+    "Username": "arnold schwarz",
+    "Discriminator": 512,
+    "ID": {
+      "$numberLong": "715619276580585491"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "2950747719"
+  },
+  "Username": "xXItsFitsXx",
+  "Banned": true
+},{
+  "UserId": 859544379,
+  "Username": "95un",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2268642408"
+  },
+  "Username": "Legend_SzeLeNg",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "10085984672"
+  },
+  "Username": "IseeULucky",
+  "Banned": true
+},{
+  "UserId": 489733256,
+  "Username": "Darklord899999",
+  "Banned": true
+},{
+  "UserId": 1532631451,
+  "Username": "HACKE_RYTXX",
+  "Banned": true
+},{
+  "UserId": 673513065,
+  "Username": "C31g",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2813710142"
+  },
+  "Username": "banboyo_demon",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1668215521984"
+      }
+    },
+    "Username": "banboyo75",
+    "Discriminator": 7805,
+    "ID": {
+      "$numberLong": "875485783912497183"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1634906702,
+  "Username": "its_SquirtleJr",
+  "Banned": true
+},{
+  "UserId": 119362849,
+  "Username": "AgiliteBuster2k",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1667485628138"
+      }
+    },
+    "Username": "lxaiii",
+    "Discriminator": 3117,
+    "ID": {
+      "$numberLong": "960522091420086332"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1671277903,
+  "Username": "BGS_DoggyTrades",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3684875577"
+  },
+  "Username": "kriecke",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1666314663510"
+      }
+    },
+    "Username": "Asim",
+    "Discriminator": 100,
+    "ID": {
+      "$numberLong": "1032595427398266890"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "2333120297"
+  },
+  "Username": "esawffesfds",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3889788061"
+  },
+  "Username": "killeropper59",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1666135841189"
+      }
+    },
+    "Username": "мишка3D",
+    "Discriminator": 830,
+    "ID": {
+      "$numberLong": "703575384637046834"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 408060190,
+  "Username": "vinneje2",
+  "Banned": true
+},{
+  "UserId": 1216570282,
+  "Username": "jamillekian1",
+  "Banned": true
+},{
+  "UserId": 94168034,
+  "Username": "Agnxys",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4714564653"
+  },
+  "Username": "TaIentEnergy",
+  "Banned": true
+},{
+  "UserId": 342812253,
+  "Username": "destroyerShaunReal",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1666863514089"
+      }
+    },
+    "Username": "Da",
+    "Discriminator": 3650,
+    "ID": {
+      "$numberLong": "568422381656211465"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 585974600,
+  "Username": "Jnnathan15",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1668255338799"
+      }
+    },
+    "Username": "Nathaniell",
+    "Discriminator": 6075,
+    "ID": {
+      "$numberLong": "439467659399004160"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 98708482,
+  "Username": "OpticWatermelon123",
+  "Banned": true
+},{
+  "UserId": 97238999,
+  "Username": "xXminingXx",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "15311812632"
+  },
+  "Username": "x_Whats",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3836706671"
+  },
+  "Username": "ShootaKillaG_ngOnTop",
+  "Banned": true
+},{
+  "UserId": 598341057,
+  "Username": "vinneje4",
+  "Banned": true
+},{
+  "UserId": 598346073,
+  "Username": "vinneje5",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3980447462"
+  },
+  "Username": "232323dda",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3980649931"
+  },
+  "Username": "CringedLeaderboardz",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3784746929"
+  },
+  "Username": "2y7VWr7bQGDfBXZG",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3784901263"
+  },
+  "Username": "BGS_ReplucatinTrades",
+  "Banned": true
+},{
+  "UserId": 89265605,
+  "Username": "mtz52m",
+  "Banned": true
+},{
+  "UserId": 95070832,
+  "Username": "mlgdopegod",
+  "Banned": true
+},{
+  "UserId": 601684337,
+  "Username": "KurobaTaki",
+  "Banned": true
+},{
+  "UserId": 204941205,
+  "Username": "ZombieKillerDmg",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3993494070"
+  },
+  "Username": "SnipItUser",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2550184848"
+  },
+  "Username": "IlIIlllIIllIIIlllI",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3462946192"
+  },
+  "Username": "ImaManan",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1668203433951"
+      }
+    },
+    "Username": "Gecko_1974",
+    "Discriminator": 5222,
+    "ID": {
+      "$numberLong": "701548278789177364"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 119845676,
+  "Username": "KristijanGamer",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1668203122919"
+      }
+    },
+    "Username": "0002",
+    "Discriminator": 5560,
+    "ID": {
+      "$numberLong": "254906193640685568"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "2773821767"
+  },
+  "Username": "UnPerkaholic",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1689052959704"
+      }
+    },
+    "Username": "unperkaholic",
+    "Discriminator": 0,
+    "ID": {
+      "$numberLong": "1073095247548133466"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1035749744,
+  "Username": "1et091999",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3999638761"
+  },
+  "Username": "whatDaFlip6",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "9988032982"
+  },
+  "Username": "Twisted_Origins",
+  "Banned": true
+},{
+  "UserId": 160649006,
+  "Username": "ropalsin",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1666858845565"
+      }
+    },
+    "Username": "Darg",
+    "Discriminator": 1072,
+    "ID": {
+      "$numberLong": "839741637617254432"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 36532736,
+  "Username": "robertvicol",
+  "Banned": true
+},{
+  "UserId": 194499074,
+  "Username": "M4terA",
+  "Banned": true
+},{
+  "UserId": 117492730,
+  "Username": "Masterkungfu121",
+  "Banned": true
+},{
+  "UserId": 570720902,
+  "Username": "MrHello079",
+  "Banned": true
+},{
+  "UserId": 699233401,
+  "Username": "raanennnnnnnnn",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "40082919692"
+  },
+  "Username": "Mlthrill",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1668363991477"
+      }
+    },
+    "Username": "amethystttt",
+    "Discriminator": 3181,
+    "ID": {
+      "$numberLong": "1012824948630356069"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 102897391,
+  "Username": "Ltlandpa",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2912606313"
+  },
+  "Username": "Blackout09214",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "31612899992"
+  },
+  "Username": "Locos_Turkos",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1667165147050"
+      }
+    },
+    "Username": "Omnipotent",
+    "Discriminator": 3466,
+    "ID": {
+      "$numberLong": "1036010918687027310"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1613697750,
+  "Username": "55x680",
+  "Banned": true
+},{
+  "UserId": 1028973912,
+  "Username": "Ltlandpa",
+  "Banned": true
+},{
+  "UserId": 148964010,
+  "Username": "saidfullgames",
+  "Banned": true
+},{
+  "UserId": 702411974,
+  "Username": "yolwq3",
+  "Banned": true
+},{
+  "UserId": 990997481,
+  "Username": "b5vl",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3907443227"
+  },
+  "Username": "KurxxedByGod",
+  "Banned": true
+},{
+  "UserId": 99757295,
+  "Username": "gaines123456789",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2223419274"
+  },
+  "Username": "Coomer_Femboy",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "5875351793"
+  },
+  "Username": "hn3x",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4026035555"
+  },
+  "Username": "MrCxtzs",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4026240997"
+  },
+  "Username": "imnotgae132",
+  "Banned": true
+},{
+  "UserId": 93949914,
+  "Username": "foxyislifee",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3986451499"
+  },
+  "Username": "DawsonDHC",
+  "Banned": true
+},{
+  "UserId": 2044290953,
+  "Username": "klokiwhy",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2219723132"
+  },
+  "Username": "kywareyitmekelsen",
+  "Banned": true
+},{
+  "UserId": 106930031,
+  "Username": "xIUFANx",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4032928195"
+  },
+  "Username": "PeanutButterLover133",
+  "Banned": true
+},{
+  "UserId": 55447509,
+  "Username": "jon_yuh",
+  "Banned": true
+},{
+  "UserId": 83016483,
+  "Username": "JustJxshh",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4037649897"
+  },
+  "Username": "ZestyMfOng",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4037731690"
+  },
+  "Username": "admit1230",
+  "Banned": true
+},{
+  "UserId": 119473751,
+  "Username": "TheRealPizza963",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1668580256474"
+      }
+    },
+    "Username": "matthewgarvey963",
+    "Discriminator": 5102,
+    "ID": {
+      "$numberLong": "286107916832997376"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "4019219415"
+  },
+  "Username": "XheXor",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1675995809013"
+      }
+    },
+    "Username": "Aspect",
+    "Discriminator": 6677,
+    "ID": {
+      "$numberLong": "923997394528534600"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3207739705"
+  },
+  "Username": "FreshBaconHairAlt",
+  "Banned": true
+},{
+  "UserId": 2051707281,
+  "Username": "am_epikman",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "20517072815"
+  },
+  "Username": "am_epikman",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4046115004"
+  },
+  "Username": "RidinInDatTonkaTruck",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3253858494"
+  },
+  "Username": "Gusikowski72482",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3430996158"
+  },
+  "Username": "VoncreStudios",
+  "Banned": true
+},{
+  "UserId": 93082646,
+  "Username": "ResoluteTear",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1668487980684"
+      }
+    },
+    "Username": "easy",
+    "Discriminator": 8725,
+    "ID": {
+      "$numberLong": "236765823681691648"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "4050812005"
+  },
+  "Username": "PackTuYu",
+  "Banned": true
+},{
+  "UserId": 863090699,
+  "Username": "Ryansnapped",
+  "Banned": true
+},{
+  "UserId": 913271473,
+  "Username": "FortniteCoolDannyD",
+  "Banned": true
+},{
+  "UserId": 381402786,
+  "Username": "imloe",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2874183740"
+  },
+  "Username": "Ankles_cute",
+  "Banned": true
+},{
+  "UserId": 200869829,
+  "Username": "Doocheee",
+  "Banned": true
+},{
+  "UserId": 1505766399,
+  "Username": "IconicUsernamx",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1668885287705"
+      }
+    },
+    "Username": "usernamx",
+    "Discriminator": 7905,
+    "ID": {
+      "$numberLong": "959888888577548388"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1303097202,
+  "Username": "Azure_Rose",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2281786366"
+  },
+  "Username": "NightMarraws",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1675472197054"
+      }
+    },
+    "Username": "*Nathan_Menioria",
+    "Discriminator": 2796,
+    "ID": {
+      "$numberLong": "1008528762402517053"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "4051616923"
+  },
+  "Username": "TDK_wire671",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1668845365618"
+      }
+    },
+    "Username": "TDK Wire671",
+    "Discriminator": 2011,
+    "ID": {
+      "$numberLong": "879597007436648449"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "29640552102"
+  },
+  "Username": "justablackAsianGuy",
+  "Banned": true
+},{
+  "UserId": 173266977,
+  "Username": "gui123123123",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4056749892"
+  },
+  "Username": "BigTyrone211",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4057971460"
+  },
+  "Username": "Mlcryt",
+  "Banned": true
+},{
+  "UserId": 2063936272,
+  "Username": "Ninelotus",
+  "Banned": true
+},{
+  "UserId": 376566416,
+  "Username": "BalerinaBob",
+  "Banned": true
+},{
+  "UserId": 107331188,
+  "Username": "WBMJunior",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "40604614312"
+  },
+  "Username": "noobtoproozz777",
+  "Banned": true
+},{
+  "UserId": 223988567,
+  "Username": "thePVPmaster64",
+  "Banned": true
+},{
+  "UserId": 588489588,
+  "Username": "MR_R0GATO",
+  "Banned": true
+},{
+  "UserId": 128820837,
+  "Username": "BallisticAmp2766",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "27790671853"
+  },
+  "Username": "boxermazi",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2367557792"
+  },
+  "Username": "BenjiSpeedy11",
+  "Banned": true
+},{
+  "UserId": 214714496,
+  "Username": "IAmsNoobs",
+  "Banned": true
+},{
+  "UserId": 1577757927,
+  "Username": "IUseAMacroNGL",
+  "Banned": true
+},{
+  "UserId": 1129710067,
+  "Username": "conejoradiactivo",
+  "Banned": true
+},{
+  "UserId": 152157386,
+  "Username": "adorablemass95",
+  "Banned": true
+},{
+  "UserId": 138945355,
+  "Username": "jacklog13",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3223038481"
+  },
+  "Username": "AbsoluteBeyonder",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4067373044"
+  },
+  "Username": "abcurgaalt",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3556646763"
+  },
+  "Username": "509_Sh5wn",
+  "Banned": true
+},{
+  "UserId": 373797701,
+  "Username": "pokemong_ay",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4070166936"
+  },
+  "Username": "mhmstart",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "29507477193"
+  },
+  "Username": "xXItsFitsXx",
+  "Banned": true
+},{
+  "UserId": 207096712,
+  "Username": "connor1111123",
+  "Banned": true
+},{
+  "UserId": 900523895,
+  "Username": "IAM8Ac0n",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4070461820"
+  },
+  "Username": "Zehzxo",
+  "Banned": true
+},{
+  "UserId": 344750273,
+  "Username": "realEXtrEMesam",
+  "Banned": true
+},{
+  "UserId": 1590078425,
+  "Username": "BabyPlxto321",
+  "Banned": true
+},{
+  "UserId": 399454631,
+  "Username": "Stella_PlaysRBX",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3325947110"
+  },
+  "Username": "MX6_RBXIsback",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3088905279"
+  },
+  "Username": "NotMX6_RBXDontBanOk",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3121257241"
+  },
+  "Username": "ReturnOfMX6_RBX",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3103967188"
+  },
+  "Username": "MX6_RBX7",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3516090497"
+  },
+  "Username": "MX6DoesTheHacky",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3524991087"
+  },
+  "Username": "MX6HackyTheRoblox",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2812141240"
+  },
+  "Username": "MX6_RBX4",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2282787149"
+  },
+  "Username": "gamingDude12332",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3358390294"
+  },
+  "Username": "IlIllIlIlllIlIlIllI",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4076269479"
+  },
+  "Username": "IIIlIIllIlIllIlIllII",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4076310687"
+  },
+  "Username": "llIlIIllIllIlIIllIlI",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3415606064"
+  },
+  "Username": "ItsNotMyBirthday2403",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3524993803"
+  },
+  "Username": "MX6HackyWacky",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2833011702"
+  },
+  "Username": "MX6_RBX5",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3524996927"
+  },
+  "Username": "MX6TheHackyPerson",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3469897513"
+  },
+  "Username": "MinersHavenDevsBad",
+  "Banned": true
+},{
+  "UserId": 1305179130,
+  "Username": "yeetboi7281",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2208215453"
+  },
+  "Username": "XKiToGaming",
+  "Banned": true
+},{
+  "UserId": 985461235,
+  "Username": "janhtrfAnh",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4082858949"
+  },
+  "Username": "Luca_Gamer1433",
+  "Banned": true
+},{
+  "UserId": 1196366953,
+  "Username": "clownosebacktoback",
+  "Banned": true
+},{
+  "UserId": 958721783,
+  "Username": "unicornmaddnessssss",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "9587217832"
+  },
+  "Username": "unicornmaddnessssss",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1670393142758"
+      }
+    },
+    "Username": "Kyzui",
+    "Discriminator": 2732,
+    "ID": {
+      "$numberLong": "982827625179394070"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 193608672,
+  "Username": "kingmanx34",
+  "Banned": true
+},{
+  "UserId": 134208204,
+  "Username": "5ldx",
+  "Banned": true
+},{
+  "UserId": 1956102952,
+  "Username": "ArnosValdigod",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3636832979"
+  },
+  "Username": "Twilightshoe",
+  "Banned": true
+},{
+  "UserId": 104138744,
+  "Username": "KresnaRaharja",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2398690634"
+  },
+  "Username": "MattRozsak",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4078583967"
+  },
+  "Username": "youngravy58",
+  "Banned": true
+},{
+  "UserId": 1043383513,
+  "Username": "yolwq1",
+  "Banned": true
+},{
+  "UserId": 204689541,
+  "Username": "SinisterHorseman",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4114387543"
+  },
+  "Username": "Yugetsusai",
+  "Banned": true
+},{
+  "UserId": 1703872481,
+  "Username": "mayrushart_v21",
+  "Banned": true
+},{
+  "UserId": 232108269,
+  "Username": "RosaliaHostile",
+  "Banned": true
+},{
+  "UserId": 131007229,
+  "Username": "imnikefriend",
+  "Banned": true
+},{
+  "UserId": 650001287,
+  "Username": "starHoopa",
+  "Banned": true
+},{
+  "UserId": 2007849404,
+  "Username": "yobolalol",
+  "Banned": true
+},{
+  "UserId": 1398388903,
+  "Username": "85w8",
+  "Banned": true
+},{
+  "UserId": 436759660,
+  "Username": "Yod41the",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3939623513"
+  },
+  "Username": "AssLovingFurry",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "39396235132"
+  },
+  "Username": "AssLovingFurry",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3965722696"
+  },
+  "Username": "forgxttxnn",
+  "Banned": true
+},{
+  "UserId": 1074566337,
+  "Username": "minershhhaven",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "10745663373"
+  },
+  "Username": "minershhhaven",
+  "Banned": true
+},{
+  "UserId": 89881030,
+  "Username": "kingsmen22",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3922151533"
+  },
+  "Username": "SimulatoR222022",
+  "Banned": true
+},{
+  "UserId": 339981497,
+  "Username": "juxp1ter",
+  "Banned": true
+},{
+  "UserId": 1704849627,
+  "Username": "Ruxle34",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2995400334"
+  },
+  "Username": "fgtykfgyksaavgk6",
+  "Banned": true
+},{
+  "UserId": 930642623,
+  "Username": "frankieisskilld",
+  "Banned": true
+},{
+  "UserId": 644371174,
+  "Username": "Kontroil",
+  "Banned": true
+},{
+  "UserId": 160447899,
+  "Username": "tomis2008",
+  "Banned": true
+},{
+  "UserId": 944548813,
+  "Username": "qtwnn",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4535047152"
+  },
+  "Username": "sirpigzz",
+  "Banned": true
+},{
+  "UserId": 552439913,
+  "Username": "hotweatherhater",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1672394986176"
+      }
+    },
+    "Username": "placement",
+    "Discriminator": 9008,
+    "ID": {
+      "$numberLong": "196875895179444226"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3653520464"
+  },
+  "Username": "metgodkiller2",
+  "Banned": true
+},{
+  "UserId": 1163311045,
+  "Username": "Axorias",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1673554101610"
+      }
+    },
+    "Username": "ilyChris",
+    "Discriminator": 6970,
+    "ID": {
+      "$numberLong": "701820269970456706"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "2943754633"
+  },
+  "Username": "hourlessminute",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "29437546334"
+  },
+  "Username": "hourlessminute",
+  "Banned": true
+},{
+  "UserId": 1233905072,
+  "Username": "tbhWDNC",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1673267035797"
+      }
+    },
+    "Username": "solo",
+    "Discriminator": 1000,
+    "ID": {
+      "$numberLong": "837650021041569863"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1382351612,
+  "Username": "SCBBboyXD",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4201518671"
+  },
+  "Username": "Borrowed_Time1",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1686510583370"
+      }
+    },
+    "Username": "Blhu",
+    "Discriminator": 3910,
+    "ID": {
+      "$numberLong": "730965937087447101"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 93932626,
+  "Username": "xiCh1ll",
+  "Banned": true
+},{
+  "UserId": 55045596,
+  "Username": "MEOWMASTER31",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4055580728"
+  },
+  "Username": "Kinglegacyhatefruit",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3609912766"
+  },
+  "Username": "Nightmare4031204",
+  "Banned": true
+},{
+  "UserId": 258303343,
+  "Username": "Waz_2",
+  "Banned": true
+},{
+  "UserId": 217219259,
+  "Username": "FaroxMaster",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2780314471"
+  },
+  "Username": "iSh0otDarkSkinDudes",
+  "Banned": true
+},{
+  "UserId": 50107557,
+  "Username": "Txnman",
+  "Banned": true
+},{
+  "UserId": 1107438400,
+  "Username": "n_oob444",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4278956080"
+  },
+  "Username": "mhmletmeplay",
+  "Banned": true
+},{
+  "UserId": 1173231192,
+  "Username": "Innerlation",
+  "Banned": true
+},{
+  "UserId": 241968189,
+  "Username": "awesomeDylan00",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3781561884"
+  },
+  "Username": "Altereation_1",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3781562338"
+  },
+  "Username": "Altereation_2",
+  "Banned": true
+},{
+  "UserId": 1045322006,
+  "Username": "KueBacon",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4317103288"
+  },
+  "Username": "Astrinities",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4323562894"
+  },
+  "Username": "yesyesman1232",
+  "Banned": true
+},{
+  "UserId": 220148986,
+  "Username": "drizzy7511",
+  "Banned": true
+},{
+  "UserId": 156203869,
+  "Username": "bautaimo",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3790475122"
+  },
+  "Username": "Daestrophe_666",
+  "Banned": true
+},{
+  "UserId": 499002039,
+  "Username": "Eppo197412",
+  "Banned": true
+},{
+  "UserId": 362564939,
+  "Username": "JonPIays",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2637460248"
+  },
+  "Username": "freefrankeei",
+  "Banned": true
+},{
+  "UserId": 1534333757,
+  "Username": "thequantumpoop",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3756240397"
+  },
+  "Username": "Nxbular_Dragon",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1679920999837"
+      }
+    },
+    "Username": "no thanks",
+    "Discriminator": 450,
+    "ID": {
+      "$numberLong": "1071976531976519761"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3091417533"
+  },
+  "Username": "RexozcJr",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4359525018"
+  },
+  "Username": "R_Kiba",
+  "Banned": true
+},{
+  "UserId": 161107659,
+  "Username": "imaderp34",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "25099122213"
+  },
+  "Username": "vderrbyy",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2509912221"
+  },
+  "Username": "vderrbyy",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3664330449"
+  },
+  "Username": "zhelebop",
+  "Banned": true
+},{
+  "UserId": 669721004,
+  "Username": "itzCrazyTW",
+  "Banned": true
+},{
+  "UserId": 93012492,
+  "Username": "Zenith_Davis",
+  "Banned": true
+},{
+  "UserId": 967963,
+  "Username": "musculnen",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4428403400"
+  },
+  "Username": "PilifSo",
+  "Banned": true
+},{
+  "UserId": 11645251,
+  "Username": "megthhevtzamb1mc1xyx",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4430482425"
+  },
+  "Username": "IWasMobileBefore",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1683556685571"
+      }
+    },
+    "Username": "dawson",
+    "Discriminator": 1,
+    "ID": {
+      "$numberLong": "904857041179402310"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 914931589,
+  "Username": "SuperDuper_Games1",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4434069385"
+  },
+  "Username": "superdupergameisL",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4437151992"
+  },
+  "Username": "12321321323ASDASD1q",
+  "Banned": true
+},{
+  "UserId": 38882174,
+  "Username": "colbaim",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4438829752"
+  },
+  "Username": "dintisweird1",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4438838829"
+  },
+  "Username": "dintisweird2",
+  "Banned": true
+},{
+  "UserId": 393855548,
+  "Username": "obbyhackerjr",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3897833323"
+  },
+  "Username": "SealedVermite",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1680735294151"
+      }
+    },
+    "Username": "buiq",
+    "Discriminator": 3984,
+    "ID": {
+      "$numberLong": "459096743036977152"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "4442471761"
+  },
+  "Username": "DintMessedUp",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4442517318"
+  },
+  "Username": "GoodJobDint",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2487708306"
+  },
+  "Username": "flingingwithtunes",
+  "Banned": true
+},{
+  "UserId": 654266328,
+  "Username": "FBINCase",
+  "Banned": true
+},{
+  "UserId": 274089522,
+  "Username": "klheff",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4446984898"
+  },
+  "Username": "DintIsntBright",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4447854029"
+  },
+  "Username": "GetBetterDint",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4447892428"
+  },
+  "Username": "DintATurd",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4448227338"
+  },
+  "Username": "dintisloser",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4450827634"
+  },
+  "Username": "ascendester",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4450866314"
+  },
+  "Username": "truedinttroller",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4450871436"
+  },
+  "Username": "DintIsTerrible",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4472191246"
+  },
+  "Username": "begamin666_the66",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3222417440"
+  },
+  "Username": "FADEcrainer",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "5641394162"
+  },
+  "Username": "bushylolz",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1682187730569"
+      }
+    },
+    "Username": "Cxtrzy",
+    "Discriminator": 9966,
+    "ID": {
+      "$numberLong": "743212686745010237"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 616578518,
+  "Username": "N0TF0RSTAKEN",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3550104913"
+  },
+  "Username": "crazyyywow",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2325866511"
+  },
+  "Username": "Matthew1256891",
+  "Banned": true
+},{
+  "UserId": 797685240,
+  "Username": "Neworly",
+  "Banned": true
+},{
+  "UserId": 34426822,
+  "Username": "robbol12",
+  "Banned": true
+},{
+  "UserId": 174197341,
+  "Username": "dangerwolf1002",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4047710989"
+  },
+  "Username": "GuiguiBunitao123",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3685865001"
+  },
+  "Username": "dcasdawdeaesd",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4527759117"
+  },
+  "Username": "Unfunny_bunnyy2015",
+  "Banned": true
+},{
+  "UserId": 936800783,
+  "Username": "ultimategamer13323",
+  "Banned": true
+},{
+  "UserId": 676062604,
+  "Username": "MrsOverHeaven",
+  "Banned": true
+},{
+  "UserId": 1353359993,
+  "Username": "itachixzvalt13",
+  "Banned": true
+},{
+  "UserId": 1353349846,
+  "Username": "itachixzvalt10",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3413348098"
+  },
+  "Username": "mxspg",
+  "Banned": true
+},{
+  "UserId": 1263163446,
+  "Username": "ThijnGamerYT",
+  "Banned": true
+},{
+  "UserId": 129068894,
+  "Username": "Unkownnamee",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4448428708"
+  },
+  "Username": "qfpcv",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4291639815"
+  },
+  "Username": "byden10101",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2448770248"
+  },
+  "Username": "SURFctdv",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4147715936"
+  },
+  "Username": "ScaledXPO",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2362923189"
+  },
+  "Username": "brycelikeroblox123",
+  "Banned": true
+},{
+  "UserId": 1528772140,
+  "Username": "UrPizzaDeliveryGuy",
+  "Banned": true
+},{
+  "UserId": 415870603,
+  "Username": "xXThe_KilonXx",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4569116402"
+  },
+  "Username": "AgentComb",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3775721866"
+  },
+  "Username": "hcvee",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4570949633"
+  },
+  "Username": "monkeyhudy",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2588252659"
+  },
+  "Username": "venmoo0",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3263784136"
+  },
+  "Username": "Wevarto",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3608182446"
+  },
+  "Username": "MindSonix",
+  "Banned": true
+},{
+  "UserId": 1874427217,
+  "Username": "GrimmArtemis",
+  "Banned": true
+},{
+  "UserId": 699890910,
+  "Username": "McThy_Br",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "18744272172"
+  },
+  "Username": "GrimmArtemis",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4594291580"
+  },
+  "Username": "micharlnivker",
+  "Banned": true
+},{
+  "UserId": 126741374,
+  "Username": "butstud",
+  "Banned": true
+},{
+  "UserId": 151401554,
+  "Username": "Iinc6In",
+  "Banned": true
+},{
+  "UserId": 466460995,
+  "Username": "f0_cz",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3543998100"
+  },
+  "Username": "diabeteshaver2",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4637717372"
+  },
+  "Username": "2133as2",
+  "Banned": true
+},{
+  "UserId": 1564637623,
+  "Username": "Rafiaska_123",
+  "Banned": true
+},{
+  "UserId": 472258128,
+  "Username": "Estrangemxnt",
+  "Banned": true
+},{
+  "UserId": 1353361877,
+  "Username": "itachixzvalt14",
+  "Banned": true
+},{
+  "UserId": 1353368832,
+  "Username": "itachixzvalt16",
+  "Banned": true
+},{
+  "UserId": 115023421,
+  "Username": "RIPTickets9001",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4466485562"
+  },
+  "Username": "quackgoosegoose",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2849210106"
+  },
+  "Username": "LlttlePancake",
+  "Banned": true
+},{
+  "UserId": 298451148,
+  "Username": "smrfwidow",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4581897787"
+  },
+  "Username": "Berny_alterno1",
+  "Banned": true
+},{
+  "UserId": 1223004869,
+  "Username": "DEADEMPIREELITE",
+  "Banned": true
+},{
+  "UserId": 74476435,
+  "Username": "egemen45",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4647072920"
+  },
+  "Username": "icoxxub",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4585928682"
+  },
+  "Username": "1Noyya",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2984511482"
+  },
+  "Username": "smrfwidow",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2984511483"
+  },
+  "Username": "smrfwidow",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2984511484"
+  },
+  "Username": "smrfwidow",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2984511485"
+  },
+  "Username": "smrfwidow",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4678980957"
+  },
+  "Username": "treerex4402",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "46789809573"
+  },
+  "Username": "treerex4402",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4318684161"
+  },
+  "Username": "restrinn",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2612194820"
+  },
+  "Username": "FoolHardy111",
+  "Banned": true
+},{
+  "UserId": 1588568603,
+  "Username": "K3nKan3kin",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4686127700"
+  },
+  "Username": "6MinersHavenLover9",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4693750097"
+  },
+  "Username": "PurgAndDintAreCute",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3051138281"
+  },
+  "Username": "lceFr0st",
+  "Banned": true
+},{
+  "UserId": 52578736,
+  "Username": "TrilIXIV",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1686539849180"
+      }
+    },
+    "Username": "Mxsery",
+    "Discriminator": 4820,
+    "ID": {
+      "$numberLong": "1116799854480457780"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 40506927,
+  "Username": "mpice101",
+  "Banned": true
+},{
+  "UserId": 1608299190,
+  "Username": "asejfhcv",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4707930155"
+  },
+  "Username": "asejmhm",
+  "Banned": true
+},{
+  "UserId": 94215945,
+  "Username": "NoLuvToday",
+  "Banned": true
+},{
+  "UserId": 942159454,
+  "Username": "NoLuvToday",
+  "Banned": true
+},{
+  "UserId": 1455705989,
+  "Username": "6byk",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3291412131"
+  },
+  "Username": "themmememe",
+  "Banned": true
+},{
+  "UserId": 114615789,
+  "Username": "Deegung",
+  "Banned": true
+},{
+  "UserId": 1274588560,
+  "Username": "WhoThoughtThis",
+  "Banned": true
+},{
+  "UserId": 1385018691,
+  "Username": "alexgroundonfan",
+  "Banned": true
+},{
+  "UserId": 1482129499,
+  "Username": "XxILOV3_AN1M3xX",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "22817863663"
+  },
+  "Username": "NightMarraws",
+  "Banned": true
+},{
+  "UserId": 179743017,
+  "Username": "6602cap",
+  "Banned": true
+},{
+  "UserId": 181475458,
+  "Username": "newcomnm",
+  "Banned": true
+},{
+  "UserId": 1151266721,
+  "Username": "RadWimqs",
+  "Banned": true
+},{
+  "UserId": 577826299,
+  "Username": "8888nine",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4666748993"
+  },
+  "Username": "SovietUn1on_Jack",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2729773482"
+  },
+  "Username": "yk_ts",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3903367500"
+  },
+  "Username": "ssungdripwoo",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3541853495"
+  },
+  "Username": "imnotanoob66676",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4317886612"
+  },
+  "Username": "KENPAKI666",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4725076340"
+  },
+  "Username": "sungdripppwoo2",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4726652568"
+  },
+  "Username": "okmXD_1",
+  "Banned": true
+},{
+  "UserId": 2057301390,
+  "Username": "3nuxz",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4466489355"
+  },
+  "Username": "quackgoosegoose1",
+  "Banned": true
+},{
+  "UserId": 1748268522,
+  "Username": "Krighterine",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2439530455"
+  },
+  "Username": "ghefazo",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3979550442"
+  },
+  "Username": "commongokuWsolos",
+  "Banned": true
+},{
+  "UserId": 156175559,
+  "Username": "tyler009999",
+  "Banned": true
+},{
+  "UserId": 167637203,
+  "Username": "dudesrock169",
+  "Banned": true
+},{
+  "UserId": 291203652,
+  "Username": "1232343454565678",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4730448666"
+  },
+  "Username": "ZoinksScoob355",
+  "Banned": true
+},{
+  "UserId": 1971606117,
+  "Username": "SavedFrogga",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2639585996"
+  },
+  "Username": "fixrobloxengines",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2407897858"
+  },
+  "Username": "boozballv2",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "19716061172"
+  },
+  "Username": "SavedFrogga",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4705174305"
+  },
+  "Username": "ballingtheballer1",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4732018209"
+  },
+  "Username": "mnrshvnmodbestgame",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4732025245"
+  },
+  "Username": "nisgssga",
+  "Banned": true
+},{
+  "UserId": 1408549647,
+  "Username": "eppo197415",
+  "Banned": true
+},{
+  "UserId": 1370257542,
+  "Username": "EpicDestroyer1098_2",
+  "Banned": true
+},{
+  "UserId": 352049058,
+  "Username": "DaBestHackerEvr",
+  "Banned": true
+},{
+  "UserId": 1370263986,
+  "Username": "EpicDestroyer1098_3",
+  "Banned": true
+},{
+  "UserId": 1370630573,
+  "Username": "EpicDestroyer1098_4",
+  "Banned": true
+},{
+  "UserId": 1303910672,
+  "Username": "Rogueage1",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1689083206753"
+      }
+    },
+    "Username": ".temp_",
+    "Discriminator": 0,
+    "ID": {
+      "$numberLong": "631145833932390420"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "4430523350"
+  },
+  "Username": "Dubby2578",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3569674798"
+  },
+  "Username": "yourjordansarefake14",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4738860428"
+  },
+  "Username": "oyhvbukhvuiv",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4741997826"
+  },
+  "Username": "nissgssga",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4742355121"
+  },
+  "Username": "Purgy_imissU",
+  "Banned": true
+},{
+  "UserId": 132153658,
+  "Username": "TdubModz117",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4199116346"
+  },
+  "Username": "ibeatslenderass1930",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4571279972"
+  },
+  "Username": "skillfulfrnocap12112",
+  "Banned": true
+},{
+  "UserId": 1287424950,
+  "Username": "AMAZONPRIME1122",
+  "Banned": true
+},{
+  "UserId": 1402169965,
+  "Username": "callmespudson",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4753301032"
+  },
+  "Username": "pooberfunny",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4753385079"
+  },
+  "Username": "georgeviewfinder",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4754030800"
+  },
+  "Username": "Fabledjustice11",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2635715120"
+  },
+  "Username": "webtatr",
+  "Banned": true
+},{
+  "UserId": 1813592749,
+  "Username": "arnaueteNG",
+  "Banned": true
+},{
+  "UserId": 89185055,
+  "Username": "alexengan",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3710312499"
+  },
+  "Username": "IamCurrentlyHitting",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4760434836"
+  },
+  "Username": "thisshiIsSofunny",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4760480618"
+  },
+  "Username": "imbackjuststop",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4760496118"
+  },
+  "Username": "violationofToSmuch",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4760509322"
+  },
+  "Username": "imgonnakeepgoingback",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4760654765"
+  },
+  "Username": "apextings",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4763987128"
+  },
+  "Username": "maniac3460",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4770839515"
+  },
+  "Username": "MHM_BME",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4729723997"
+  },
+  "Username": "BadassBACONBOIIII",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1689490825210"
+      }
+    },
+    "Username": "DaddyXD",
+    "Discriminator": 3058,
+    "ID": {
+      "$numberLong": "1120614915623891025"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 545872186,
+  "Username": "comunity661",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3805605130"
+  },
+  "Username": "HeavyTurretOnYt",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4777867885"
+  },
+  "Username": "MHM_Speedrunn",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4444045126"
+  },
+  "Username": "FADEcrainer7",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4347083995"
+  },
+  "Username": "FADEcrainerALT",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4638591419"
+  },
+  "Username": "MinersHavr",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4778383680"
+  },
+  "Username": "TheOrbGimme",
+  "Banned": true
+},{
+  "UserId": 154887022,
+  "Username": "FunnySuperman012345",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4779278664"
+  },
+  "Username": "StopCaringAbExpDint1",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4779404636"
+  },
+  "Username": "IFarded220",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4779776301"
+  },
+  "Username": "Cheesiepops_6",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4779789010"
+  },
+  "Username": "KreekkraftYT91",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4779798093"
+  },
+  "Username": "WHYdoYOUcare368",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4779809589"
+  },
+  "Username": "FADEcrainerisbannd",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4779826378"
+  },
+  "Username": "xXOPNOOBXx0",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4781862541"
+  },
+  "Username": "2inchblackwilly",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3260909510"
+  },
+  "Username": "ImakeMoneythatswhy",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4796533447"
+  },
+  "Username": "MHMexpertt",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4796593746"
+  },
+  "Username": "LegendaryProGamer950",
+  "Banned": true
+},{
+  "UserId": 694238091,
+  "Username": "sk9rDud3",
+  "Banned": true
+},{
+  "UserId": 622104512,
+  "Username": "iwant_tokmss",
+  "Banned": true
+},{
+  "UserId": 435189468,
+  "Username": "CardCrescent111",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4799518444"
+  },
+  "Username": "gametester044",
+  "Banned": true
+},{
+  "UserId": 290447026,
+  "Username": "GuardedCOD33",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3825156483"
+  },
+  "Username": "boiboiboiyoi2",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3147617380"
+  },
+  "Username": "Blue_Kirs",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4808206194"
+  },
+  "Username": "wdadwa3da1231",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1689372090605"
+      }
+    },
+    "Username": "pibb",
+    "Discriminator": 6348,
+    "ID": {
+      "$numberLong": "1038075044942848060"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": 1869742940,
+  "Username": "NameusPhantom",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2616838170"
+  },
+  "Username": "VouTeFderGado",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4671280910"
+  },
+  "Username": "oomoneyalt1",
+  "Banned": true
+},{
+  "UserId": 435049718,
+  "Username": "lashaman1000",
+  "Banned": true
+},{
+  "UserId": 1336859405,
+  "Username": "IpPullnIsWhatIDo",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4835820624"
+  },
+  "Username": "mhmoddedgrind",
+  "Banned": true
+},{
+  "UserId": 7871729,
+  "Username": "storm9898",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4848009325"
+  },
+  "Username": "DintAndPurg_BadDevs",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4848034762"
+  },
+  "Username": "DintNdPurgSxuk_Dxik",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4137450032"
+  },
+  "Username": "d1_fd",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4819539876"
+  },
+  "Username": "idontpvp_6",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "2825530485"
+  },
+  "Username": "Japlanese",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4901657152"
+  },
+  "Username": "IeucopIast",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4902219703"
+  },
+  "Username": "dsa2131d43ads",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3897829277"
+  },
+  "Username": "SealedDiamond",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "4906381384"
+  },
+  "Username": "nnetscape",
+  "Banned": true,
+  "Discord": {
+    "TimeVerified": {
+      "$date": {
+        "$numberLong": "1692065004132"
+      }
+    },
+    "Username": "platxnic",
+    "Discriminator": 0,
+    "ID": {
+      "$numberLong": "1140230528843391088"
+    },
+    "Linked": true
+  }
+},{
+  "UserId": {
+    "$numberLong": "3000497569"
+  },
+  "Username": "LemonsBalling",
+  "Banned": true
+},{
+  "UserId": {
+    "$numberLong": "3115954513"
+  },
+  "Username": "ElbolisMW",
+  "Banned": true
+}]
